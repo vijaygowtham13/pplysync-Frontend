@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/components/modal.jsx", "app/notes/page.jsx"  ],
   "exclude": ["node_modules"]
 }
