@@ -9,12 +9,12 @@ This frontend communicates with a Django REST API backend.
 ## 🚀 Live Demo
 
 Frontend (Vercel):  
-👉 https://your-frontend-url.vercel.app  
-*(Replace with your actual Vercel link)*
+👉  https://pplysync-frontend.vercel.app
+
 
 Backend (Render):  
 👉 https://your-backend-url.onrender.com  
-*(Replace with your actual Render link)*
+
 
 ---
 
