@@ -12,9 +12,6 @@ Frontend (Vercel):
 👉  https://pplysync-frontend.vercel.app
 
 
-Backend (Render):  
-👉 https://your-backend-url.onrender.com  
-
 
 ---
 
